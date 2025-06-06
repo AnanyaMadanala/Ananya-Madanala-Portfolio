@@ -1,8 +1,13 @@
 🌟 Ultimate Personal Portfolio Website
 
+
+
 Welcome to the next evolution of personal branding. This is a fully immersive, beautifully animated, and UX-optimized portfolio website crafted using modern HTML5, CSS3, and JavaScript—featuring fluid animations, dark/light modes, and interaction-first components.
 
 ✨ Preview
+
+
+
 ![img alt](https://github.com/AnanyaMadanala/Ananya-Madanala-Portfolio/blob/main/Portfolio%20demo.jpeg?raw=true)
 
 🔗 Live Now: (https://ananyamadanala.github.io/Ananya-Madanala-Portfolio/)
@@ -18,6 +23,8 @@ Welcome to the next evolution of personal branding. This is a fully immersive, b
 
 🛠️ Tech Stack
 
+
+
 ⚙️ HTML5
 🎨 CSS3 (with animations)
 💡 JavaScript (modular & structured)
@@ -26,6 +33,8 @@ Welcome to the next evolution of personal branding. This is a fully immersive, b
 ✨ ScrollReveal.js (for stunning in-view animations)
 
 📁 Project Structure
+
+
 
 Ananya-Madanala-Portfolio/
 │
@@ -46,6 +55,8 @@ Ananya-Madanala-Portfolio/
 
 🚀 Future Enhancements (Planned)
 
+
+
 🌈 Theme customizer (color palette picker)
 🌍 Multi-language support
 📬 EmailJS-powered contact form
@@ -53,6 +64,8 @@ Ananya-Madanala-Portfolio/
 🎯 SEO optimization and Lighthouse 100% goals
 
 👩‍💻 About the Creator
+
+
 
 Designed & built by Ananya Madanala—a passionate front-end developer with a love for clean code, sharp UI, and purposeful UX.
 Let’s connect: [![LinkedIn Badge](https://img.shields.io/badge/-Ananya%20Madanala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ananya-madanala-0419242ba)](https://www.linkedin.com/in/ananya-madanala-0419242ba)
